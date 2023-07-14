@@ -23,5 +23,21 @@ Básicamente el riesgo vendría si verdaderamente la actualización de ***dia_ac
 
 ## Anexos
 
+### Funcionamiento ~ Pregunta 01
+
+#### Contacts
+
+<img width="787" alt="Captura de pantalla 2023-07-13 a la(s) 20 49 22" src="https://github.com/paolovasquezg/sw1_examenfinal_vasquez/assets/83627663/a7e6fa6d-021d-4d29-9fd0-e331fc3c0337">
+
+#### Pago
+
+<img width="794" alt="Captura de pantalla 2023-07-13 a la(s) 20 48 31" src="https://github.com/paolovasquezg/sw1_examenfinal_vasquez/assets/83627663/fc9793a8-3970-4848-87cf-d207476fad3b">
+
+#### Historial
+
+<img width="780" alt="Captura de pantalla 2023-07-13 a la(s) 20 50 30" src="https://github.com/paolovasquezg/sw1_examenfinal_vasquez/assets/83627663/47104f40-a52c-4ed7-af99-0c590a601b16">
+
 ### Testing ~ Pregunta 02
+
+<img width="591" alt="Testing ~ Cases" src="https://github.com/paolovasquezg/sw1_examenfinal_vasquez/assets/83627663/00b54973-f89d-41fa-8b82-87a3d861e740">
 
